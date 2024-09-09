@@ -1,0 +1,18 @@
+p {
+    color:red;
+    font-size: 16px;
+}
+
+.colorVerde {
+    color:green;
+}
+.colorAzul {
+    color:blue;
+}
+
+#especial {
+    color:yellow;
+}
+/*background-color
+background-image: url("../carpeta/archivo.tipo")
+".." por si la carpeta está en otro lado*/

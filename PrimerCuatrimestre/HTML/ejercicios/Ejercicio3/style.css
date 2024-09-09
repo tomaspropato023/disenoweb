@@ -1,0 +1,42 @@
+body {
+    width: 200vh;
+    height: 50vh;
+    border: 5px solid green;
+    display: flex;
+    flex-direction: row;
+}
+#boton1 {
+    visibility: visible;
+    position: absolute;
+    left: 20px;
+    bottom: 49.1vh;
+    display: block;
+}
+
+#parrafo1 {
+    visibility: visible;
+    width: 50vh;
+    height: 49.1vh;
+    border: 3px solid black;
+    background-color: salmon;
+    display: block;
+}
+
+#parrafo2 {
+    visibility: hidden;
+    position: relative;
+    left: 98.2vh;
+    width: 50vh;
+    height: 49.1vh;
+    border: 3px solid black;
+    background-color: salmon;
+    display: block;
+}
+
+#boton2 {
+    visibility: hidden;
+    position: absolute;
+    left:152vh;
+    bottom:325px;
+    z-index: 100;
+}

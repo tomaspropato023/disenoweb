@@ -17,4 +17,4 @@ var calculoPotencia = function (base, exponente) {
     }
 };
 resultado = calculoPotencia(base, exponente);
-console.log("El resultado es:", resultado);
+console.log(base, "elevado a la", exponente, "es igual a:", resultado);

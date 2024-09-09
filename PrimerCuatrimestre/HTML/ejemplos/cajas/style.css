@@ -1,0 +1,7 @@
+div {
+    border-top: 10px solid red;
+    border-right: 5px solid blue;
+    border-bottom: 20px solid green;
+    border-left: 10px solid black;
+    display: flex;
+}
